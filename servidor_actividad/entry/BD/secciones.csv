@@ -1,0 +1,4 @@
+__v,_id,cantidadActual,cantidadMaxima,dia,horaFin,horaInicio,nombre
+0,61f87a9da52457485834aac1,2,20,Lunes,12:00,09:00,a
+0,61f87ae2a52457485834aac3,1,25,Viernes,12:00,00:00,b
+0,61f87b07a52457485834aac5,2,15,Sabado,03:00,11:00,c

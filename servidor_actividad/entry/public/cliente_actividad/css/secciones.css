@@ -1,0 +1,27 @@
+@media only screen and (max-width: 1100px),
+  (min-device-width: 768px) and (max-device-width: 1024px) {
+  td:nth-of-type(2):before {
+    content: 'Nombre';
+  }
+  td:nth-of-type(3):before {
+    content: 'Dia de clases';
+  }
+  td:nth-of-type(4):before {
+    content: 'Hora de inicio';
+  }
+  td:nth-of-type(5):before {
+    content: 'Hora final';
+  }
+  td:nth-of-type(6):before {
+    content: 'C. Maxima de estudiantes';
+  }
+  td:nth-of-type(7):before {
+    content: 'C. Actual';
+  }
+  td:nth-of-type(8):before {
+    content: 'Cupos disponibles';
+  }
+  td:nth-of-type(9):before {
+    content: 'Acciones';
+  }
+}
