@@ -7,7 +7,7 @@
     "start": "nodemon entry/app.js"
   },
   "keywords": [],
-  "author": "Manuel El Eysami",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
